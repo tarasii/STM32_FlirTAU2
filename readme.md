@@ -1,4 +1,4 @@
-STM32 Flir TAU2 library
+# STM32 Flir TAU2 library
 
 Attention, wrong commands can harm your device.
 This example shows an idea how it could be. 
@@ -12,7 +12,7 @@ flir_time_new/MDK-ARM/flir_time.uvprojx - project for Keil-ARM
 flir_time_new/flir_time_new.ioc - STM_Cube project
 
 
-Flir TAU2 commands:
+# Flir TAU2 commands:
 
 void flir_set_standart(uint16_t data);
 
